@@ -20,7 +20,7 @@ export const LoginSingup = () => {
 
     <div className='inputs'> 
     <img src= {email_icon} alt=''/>
-    <input type='email' />
+    <input type='email' />  
     </div>
 
     <div className='inputs'> 
