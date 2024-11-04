@@ -90,3 +90,9 @@
 .submit:hover {
     background-color: #29006d;
 }
+
+.gray{
+    background: #eaeaea;
+    color: #676767;
+    cursor: not-allowed;
+}
